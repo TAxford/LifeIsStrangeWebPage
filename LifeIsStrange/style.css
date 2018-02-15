@@ -1,0 +1,66 @@
+﻿.container {
+    display: grid;
+}
+
+section.grid-item.grid-item-1 {
+    background-color: hotpink;
+    height: 100px;
+}
+
+section.grid-item.grid-item-2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: red;
+    height: 75px;
+   
+    }
+
+
+
+
+li {
+    list-style-type: none;
+    display: inline;
+    float: left;
+    text-align: center;
+    padding-top:10PX;
+    
+}
+
+a {
+    color: snow;
+    text-decoration: none;
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight:bold;
+    
+}
+
+
+
+
+
+section.grid-item.grid-item-3 {
+    background-image: url('Img/Bootstrap-LifeIsStrange-master/images/junkyard.jpg');
+    height:500px;
+    background-size:cover;
+    
+    
+
+    
+}
+
+#img1 {
+    height: 40%;
+    width: 20%;
+    margin-left: 50px;
+    margin-top: 25px;
+}
+
+.jumbotron{
+    margin-left:750px;
+    margin-top:100px;
+    
+}
+
